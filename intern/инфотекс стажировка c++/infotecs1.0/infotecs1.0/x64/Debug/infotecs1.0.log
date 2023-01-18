@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Иван\Desktop\инфотекс стажировка c++\infotecs1.0\infotecs1.0\Source.cpp(74,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Иван\Desktop\инфотекс стажировка c++\infotecs1.0\infotecs1.0\Source.cpp(80,37): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Иван\Desktop\инфотекс стажировка c++\infotecs1.0\infotecs1.0\Source.cpp(171,6): warning C4101: l: неиспользованная локальная переменная
+C:\Users\Иван\Desktop\инфотекс стажировка c++\infotecs1.0\infotecs1.0\Source.cpp(228,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  infotecs1.0.vcxproj -> C:\Users\Иван\Desktop\инфотекс стажировка c++\infotecs1.0\x64\Debug\infotecs1.0.exe
